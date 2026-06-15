@@ -1,31 +1,92 @@
-#  Hola, soy Ian
+#  Hi, I'm Ian
 
-##  Sobre mí
-- Fullstack developer de Costa Rica
-- Me especializo en C#, .NET, Ruby on Rails, Laravel
-- Apasionado por networking, databases y automatización
+![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI7NjExdjJ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZyZjdD1n/c2lyZWQvZ2lwaGkuY29tL2V4YW1wbGUvZ2lwaGkuZ2lm)
+
+##  About Me
+
+Backend developer and student from Costa Rica, passionate about software development, networking, and automation. I focus on building scalable web applications and solving complex technical challenges.
+
+-  Student & aspiring backend/intern developer
+-  Cartago, Costa Rica
+-  Full-stack developer with strong backend focus
 
 ##  Tech Stack
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-### Frontend
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### Languages
+| Language | Badge |
+|----------|-------|
+| C++ | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus) |
+| Java | ![Java](https://img.shields.io/badge/Java-00739F?style=for-the-badge&logo=java) |
+| C# | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp) |
+| Ruby | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby) |
+| PHP | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) |
+| CSS | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) |
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+### Backend Frameworks
+| Framework | Badge |
+|-----------|-------|
+| .NET 10 | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet) |
+| Ruby on Rails | ![Rails](https://img.shields.io/badge/Rails-CC003D?style=for-the-badge&logo=ruby-on-rails) |
+| Laravel | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) |
 
-##  Proyectos destacados
-- **Codepixels Studio** - Mi empresa personal en crecimiento + [Enlace](https://www.codepixels.dev)
+### Frontend & Full-Stack
+| Technology | Badge |
+|------------|-------|
+| Svelte | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte) |
+| SvelteKit | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte) |
+| React | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) |
+| Inertia.js | ![Inertia.js](https://img.shields.io/badge/Inertia.js-1D3B55?style=for-the-badge) |
+| Tailwind CSS | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css) |
 
-##  Estadísticas
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swxblet)
+### Databases
+| Database | Badge |
+|----------|-------|
+| SQL Server | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server) |
+| MySQL | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql) |
+| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql) |
+| SQL (General) | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge) |
 
-##  Contacto
--  Email: contact@codepixels.dev
--  Web: codepixels.dev
+### DevOps & Cloud
+| Tool | Badge |
+|------|-------|
+| Docker | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) |
+| Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) |
+| Railway | ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway) |
+| Vercel | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel) |
+| Oracle Cloud | ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle) |
+
+## 🛠 Tools & Environments
+
+### IDEs & Editors
+| Editor | Badge |
+|--------|-------|
+| JetBrains Rider | ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains-rider) |
+| Visual Studio | ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio) |
+| Android Studio | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio) |
+| JetBrains Suite | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains) |
+
+### Network & Infrastructure
+| Tool | Badge |
+|------|-------|
+| Cisco Packet Tracer | ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000000?style=for-the-badge) |
+| Cisco Routers/Switches | ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco) |
+| VLANs | ![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge) |
+| DHCP | ![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge) |
+| Linux Server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) |
+
+### Version Control & Collaboration
+| Tool | Badge |
+|------|-------|
+| GitHub | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+| Git | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) |
+
+##  Key Projects
+
+- **[Project Name]** - My own startup company. → [Link](https://www.codepixels.dev)
+
+---
+
+*Built with passion for backend development and web technologies* 
