@@ -4,9 +4,6 @@
 
 Full-stack developer and student from Costa Rica, passionate about software development, networking, and automation. I focus on building scalable web applications and solving complex technical challenges.
 
--  Cartago, Costa Rica
--  Full-stack developer with strong backend focus
-
 ##  Tech Stack
 
 ### Languages
@@ -19,8 +16,6 @@ Full-stack developer and student from Costa Rica, passionate about software deve
 | PHP | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) |
 | TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |
-| HTML | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) |
-| CSS | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) |
 
 ### Backend Frameworks
 | Framework | Badge |
@@ -44,7 +39,6 @@ Full-stack developer and student from Costa Rica, passionate about software deve
 | SQL Server | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server) |
 | MySQL | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql) |
 | PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql) |
-| SQL (General) | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge) |
 
 ### DevOps & Cloud
 | Tool | Badge |
@@ -60,7 +54,6 @@ Full-stack developer and student from Costa Rica, passionate about software deve
 ### IDEs & Editors
 | Editor | Badge |
 |--------|-------|
-| JetBrains Rider | ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains-rider) |
 | Visual Studio | ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio) |
 | Android Studio | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio) |
 | JetBrains Suite | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains) |
