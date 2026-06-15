@@ -1,12 +1,9 @@
 #  Hi, I'm Ian
 
-![Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI7NjExdjJ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZnZ5ZyZjdD1n/c2lyZWQvZ2lwaGkuY29tL2V4YW1wbGUvZ2lwaGkuZ2lm)
-
 ##  About Me
 
-Backend developer and student from Costa Rica, passionate about software development, networking, and automation. I focus on building scalable web applications and solving complex technical challenges.
+Full-stack developer and student from Costa Rica, passionate about software development, networking, and automation. I focus on building scalable web applications and solving complex technical challenges.
 
--  Student & aspiring backend/intern developer
 -  Cartago, Costa Rica
 -  Full-stack developer with strong backend focus
 
@@ -58,7 +55,7 @@ Backend developer and student from Costa Rica, passionate about software develop
 | Vercel | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel) |
 | Oracle Cloud | ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle) |
 
-## 🛠 Tools & Environments
+##  Tools & Environments
 
 ### IDEs & Editors
 | Editor | Badge |
@@ -68,15 +65,6 @@ Backend developer and student from Costa Rica, passionate about software develop
 | Android Studio | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio) |
 | JetBrains Suite | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains) |
 
-### Network & Infrastructure
-| Tool | Badge |
-|------|-------|
-| Cisco Packet Tracer | ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000000?style=for-the-badge) |
-| Cisco Routers/Switches | ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco) |
-| VLANs | ![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge) |
-| DHCP | ![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge) |
-| Linux Server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) |
-
 ### Version Control & Collaboration
 | Tool | Badge |
 |------|-------|
@@ -85,8 +73,4 @@ Backend developer and student from Costa Rica, passionate about software develop
 
 ##  Key Projects
 
-- **[Project Name]** - My own startup company. → [Link](https://www.codepixels.dev)
-
----
-
-*Built with passion for backend development and web technologies* 
+- **Codepixels Studio** - My own startup company. → [Link](https://www.codepixels.dev)
