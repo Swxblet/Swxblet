@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Ian]
+# 👋 Hola, soy Ian
 
 ## 🚀 Sobre mí
 - Fullstack developer de Costa Rica
@@ -21,7 +21,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 
 ## 📁 Proyectos destacados
-- **[Codepixels Studio]** - Mi empresa personal en crecimiento + [Enlace](https://www.codepixels.dev)
+- **Codepixels Studio** - Mi empresa personal en crecimiento + [Enlace](https://www.codepixels.dev)
 
 ## 📊 Estadísticas
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swxblet)
